@@ -1,0 +1,9 @@
+schema_version: "1.0.0"
+name: Azure Blueprint Compliance
+metadata:
+  description: Azure Blueprint Open Control documentation
+  maintainers:
+    - jason.mcnutt@appliedis.com
+components:
+  - ./Azure_core
+  - ./Azure_implementation
