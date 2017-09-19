@@ -5,5 +5,5 @@ metadata:
   maintainers:
     - jason.mcnutt@appliedis.com
 components:
-  - ./Azure_core
-  - ./Azure_implementation
+  - ./docs/Security/Azure_core
+  - ./docs/Security/Azure_implementation
